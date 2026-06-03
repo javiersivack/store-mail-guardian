@@ -25,11 +25,13 @@ Store Mail Guardian gives store owners a simple diagnostics screen, a test email
 
 ## Screenshots
 
-Screenshots are not included in this MVP repository yet. Suggested paths for future screenshots:
+### Dashboard Overview
 
-- `docs/screenshots/dashboard.png`
-- `docs/screenshots/latest-test-failure.png`
-- `docs/screenshots/sender-diagnostics.png`
+![Dashboard Overview](assets/screenshots/dashboard.png)
+
+### Friendly Error Detection
+
+![Friendly Error Detection](assets/screenshots/lastTestResult.png)
 
 ## Installation
 
