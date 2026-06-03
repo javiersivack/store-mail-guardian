@@ -100,7 +100,6 @@ The plugin still loads without WooCommerce, but WooCommerce-specific email notif
 - Add WooCommerce email settings summaries.
 - Add exportable diagnostics report.
 - Add PHPUnit coverage for diagnostics and error guidance.
-- Add screenshots and release assets.
 
 ## Contributing
 
